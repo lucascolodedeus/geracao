@@ -66,13 +66,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -94,12 +94,12 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": true,
+            "transparent": false,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -123,7 +123,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GERAÇÃO 17'</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://youtube.com/colodedeus\" target=\"_blank\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>#GERAÇÃO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://instagram.com/colodedeus\" target=\"_blank\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://play.spotify.com/artist/4kcPkBwkBMfHCFqaGVPmu6?play=true&amp;utm_source=open.spotify.com&amp;utm_medium=open\" target=\"_blank\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#header3-g\">SOBRE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#features6-b\">INFOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box8-o\">FOTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#testimonials1-m\">TESTEMUNHOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#pricing-table2-6\">INGRESSO</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/explore/tags/geração16/\" target=\"_blank\" aria-expanded=\"false\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span>#GERAÇÃO</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#header3-g\">SOBRE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#features6-b\">INFOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box8-o\">FOTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#testimonials1-m\">TESTEMUNHOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#pricing-table2-6\">INGRESSO</a></li>"
         },
         {
           "_inherit": "header1",
@@ -135,8 +135,8 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/https---cdn-2000x1391.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -317,7 +317,7 @@
           },
           "title2": "HORA",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -638,7 +638,7 @@
             "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -675,7 +675,7 @@
           "period2": ",00",
           "description2": "*INCLUSO ALMOÇO",
           "list2": "<p><span style=\"font-size: 1rem; line-height: 1.5;\">O primeiro lote vai até dia 21de junho, faça sua inscrição o quanto antes!</span></p>",
-          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">QUERO ME INSCREVER!</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/geracao17-curitiba-a-reconstrucao-dos-altares-tickets-33431733214#tickets\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO ME INSCREVER!</a>",
           "label3": "HOT!",
           "title3": "SEGUNDO LOTE<br><span style=\"font-weight: normal;\"><i>até dia 14/07</i></span>",
           "subtitle3": "",
@@ -684,7 +684,7 @@
           "period3": ",00",
           "description3": "*INCLUSO ALMOÇO",
           "list3": "<p><span style=\"font-size: 1rem; line-height: 1.5;\">Não deixe o preço subir! inscreva-se o quanto antes e aproveite o desconto!</span><br></p>",
-          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">VOU DEIXAR PRO 2° LOTE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/geracao17-curitiba-a-reconstrucao-dos-altares-tickets-33431733214#tickets\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOU DEIXAR PRO 2° LOTE</a>",
           "label4": "HOT!",
           "title4": "TERCEIRO LOTE<br><span style=\"font-weight: normal;\"><i>até dia 21/07</i></span>",
           "subtitle4": "",
@@ -693,7 +693,7 @@
           "period4": ",00",
           "description4": "*INCLUSO ALMOÇO",
           "list4": "<p><span style=\"font-size: 1rem; line-height: 1.5;\">Não deixe pra ultima hora, pode ser que não haja mais ingresso no local!</span><br></p>",
-          "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">QUERO COMPRAR MAIS CARO!</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/geracao17-curitiba-a-reconstrucao-dos-altares-tickets-33431733214#tickets\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO COMPRAR MAIS CARO!</a>"
         },
         {
           "_tags": [
@@ -778,7 +778,7 @@
           },
           "text4": "<a href=\"mailto:eventos@colodedeus.com.br\" class=\"text-danger\">eventos@colodedeus.com.br</a>",
           "title1": "Acesse tbm:",
-          "text5": "<li><a class=\"text-white\" href=\"http://colodedeus.com.br\" target=\"_blank\">Colo de Deus</a></li><li><a class=\"text-white\" href=\"http://colodedeus.com.br/agenda\">Agenda</a></li><li><a href=\"http://youtube.com/colodedeus\" target=\"_blank\" class=\"text-danger\">Web Tv / You Tube</a><a class=\"text-white\" href=\"#\"></a></li><li><a class=\"text-white\" href=\"blog.colodedeus.com.br\" target=\"_blank\">Blog</a></li><li><a class=\"text-white\" href=\"#\">A</a>jude-nos</li>",
+          "text5": "<li><a class=\"text-white\" href=\"http://colodedeus.com.br\" target=\"_blank\">Colo de Deus</a></li><li><a class=\"text-white\" href=\"http://colodedeus.com.br/agenda\">Agenda</a></li><li><a href=\"http://youtube.com/colodedeus\" target=\"_blank\" class=\"text-danger\">Web Tv / You Tube</a><a class=\"text-white\" href=\"#\"></a></li><li><a class=\"text-white\" href=\"blog.colodedeus.com.br\" target=\"_blank\">Blog</a></li><li><a class=\"text-white\" href=\"https://www.paypal.com/br/cgi-bin/webscr?cmd=_flow&amp;SESSION=cw_1qI9A2JxkdhUGG5jvY0bW4FRtqPCsaqNijKLJuQGlMbgh1EAELAUpLVW&amp;dispatch=5885d80a13c0db1f8e263663d3faee8d83a0bf7db316a7beb1b14b43acd04037&amp;rapidsState=Donation__DonationFlow___StateDonationStart&amp;rapidsStateSignature=e4f15b0d7557714c9f15a8074775114b8c8ac6ff\" target=\"_blank\">Ajude-nos</a></li>",
           "text6": "<font color=\"#efefef\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Sobre nós:</b></span></font><br><font color=\"#efefef\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Somos uma comunidade católica, uma associação de fiéis, formadas por membros de vida e aliança, que acreditamos e desejamos realizar o mesmo objetivo, anunciar o nome de Jesus Cristo pelas nações. Somos jovens e adultos que decidiram se unir em um único lugar com os mesmos propósitos.<br>",
           "form": {
             "title": "MESSAGE",
