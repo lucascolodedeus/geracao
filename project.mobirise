@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/150-logotipo-colo-128x128.png",
     "noImageResize": "",
@@ -175,7 +175,7 @@
             "showMeta": true
           },
           "title": "<br><br>A Reconstrução dos Altares",
-          "meta": "Explo 3, 14"
+          "meta": "Isaías 58, 11 - 12"
         },
         {
           "_tags": [
@@ -188,7 +188,20 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>O GERAÇÃO é o nosso principal retiro, começou como um retiro para jovens e hoje tomou a dimensão de um congresso de jovens líderes da nossa Igreja. Um congresso para todos os jovens líderes da Igreja que querem mais de Deus, que querem se aprofundar e viver a radicalidade daquilo que Deus nos pede. A cada ano possui um tema distinto, a partir da oração e discernimento do nosso fundador, e este mesmo tema é o tema do ano para toda a comunidade. Em 2016 rodamos por Curitiba, São Paulo e Rio de Janeiro com o Geração.</p><p><br></p><p>Este ano de 2017 o tema do geração é a Reconstrução dos Altares.&nbsp;</p>"
+          "text": "<p>O GERAÇÃO é o nosso principal retiro, começou como um retiro para jovens e hoje tomou a dimensão de um congresso de jovens líderes da nossa Igreja. Um congresso para todos os jovens líderes da Igreja que querem mais de Deus, que querem se aprofundar e viver a radicalidade daquilo que Deus nos pede. A cada ano possui um tema distinto, a partir da oração e discernimento do nosso fundador, e este mesmo tema é o tema do ano para toda a comunidade. Em 2016 rodamos por Curitiba, São Paulo e Rio de Janeiro com o Geração.</p><p><br></p><p>Este ano de 2017 o tema do geração é a Reconstrução dos Altares e a passagem biblica que nos orienta esta em Isaías 58.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>\"11O Senhor te guiará constantemente, alimentar-te-á no árido deserto, renovará teu vigor. Serás como um jardim bem irrigado, como uma fonte de águas inesgotáveis. 12.Reerguerás as ruínas antigas, reedificarás sobre os alicerces seculares; chamar-te-ão o reparador de brechas, o restaurador das moradias em ruínas.\" &nbsp;Isaías 58.</blockquote>"
         },
         {
           "_tags": [
