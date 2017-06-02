@@ -278,7 +278,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "speed",
+              "name": "calendar",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -294,7 +294,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "hearth",
+              "name": "clock",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -310,7 +310,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "bookmark",
+              "name": "map-pin",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
