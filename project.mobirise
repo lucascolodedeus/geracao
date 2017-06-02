@@ -155,7 +155,7 @@
           },
           "title": "GERAÇÃO 17'",
           "text": "A reconstrução dos altares",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SABER MAIS</a> "
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"#\" data-toolbar=\"-mbrBtnMove\">SABER MAIS</a> "
         },
         {
           "_styles": {
@@ -201,7 +201,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"index.html#pricing-table2-6\" data-toolbar=\"-mbrBtnMove\">SE-INSCREVER</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"index.html#testimonials1-m\" data-toolbar=\"-mbrBtnMove\">SE-INSCREVER</a>"
         },
         {
           "_tags": [
@@ -286,10 +286,10 @@
               "color": "#000000"
             }
           },
-          "title1": "AVIVAMENTO",
+          "title1": "DIA",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -302,10 +302,10 @@
               "color": "#000000"
             }
           },
-          "title2": "COMIDA",
+          "title2": "HORA",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -318,10 +318,10 @@
               "color": "#000000"
             }
           },
-          "title3": "FORMAÇÃO",
+          "title3": "LOCAL",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
@@ -662,7 +662,7 @@
           "period2": ",00",
           "description2": "*INCLUSO ALMOÇO",
           "list2": "<p><span style=\"font-size: 1rem; line-height: 1.5;\">O primeiro lote vai até dia 21de junho, faça sua inscrição o quanto antes!</span></p>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">QUERO ME INSCREVER!</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">QUERO ME INSCREVER!</a>",
           "label3": "HOT!",
           "title3": "SEGUNDO LOTE<br><span style=\"font-weight: normal;\"><i>até dia 14/07</i></span>",
           "subtitle3": "",
@@ -671,7 +671,7 @@
           "period3": ",00",
           "description3": "*INCLUSO ALMOÇO",
           "list3": "<p><span style=\"font-size: 1rem; line-height: 1.5;\">Não deixe o preço subir! inscreva-se o quanto antes e aproveite o desconto!</span><br></p>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">VOU DEIXAR PRO 2° LOTE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">VOU DEIXAR PRO 2° LOTE</a>",
           "label4": "HOT!",
           "title4": "TERCEIRO LOTE<br><span style=\"font-weight: normal;\"><i>até dia 21/07</i></span>",
           "subtitle4": "",
@@ -680,7 +680,7 @@
           "period4": ",00",
           "description4": "*INCLUSO ALMOÇO",
           "list4": "<p><span style=\"font-size: 1rem; line-height: 1.5;\">Não deixe pra ultima hora, pode ser que não haja mais ingresso no local!</span><br></p>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">QUERO COMPRAR MAIS CARO!</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">QUERO COMPRAR MAIS CARO!</a>"
         },
         {
           "_tags": [
@@ -795,7 +795,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>"
         },
         {
           "_tags": [
