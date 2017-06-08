@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 26,
+    "uniqCompNum": 36,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/150-logotipo-colo-128x128.png",
     "noImageResize": "",
@@ -57,22 +57,22 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#0e0e0e"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#202020!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#282828"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -92,14 +92,14 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-0",
+          "_anchor": "menu-v",
           "_params": {
-            "bgColor": "#000000",
-            "fontSize": "0.9",
+            "bgColor": "#282828",
+            "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -109,11 +109,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logotipo-comnidade-colo-de-deus-hugo-e1485004579846-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/branco-logo-colo-154x128.png",
               "height": 128,
-              "alt": "Geração 2017",
-              "link": "#top",
-              "title": "Geração 17' Colo de Deus ",
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
@@ -122,40 +122,33 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GERAÇÃO 17'</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.instagram.com/explore/tags/geração16/\" target=\"_blank\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#header3-g\">SOBRE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#features6-b\">INFOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#msg-box8-o\">FOTOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#testimonials1-m\">TESTEMUNHOS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#pricing-table2-6\">INGRESSO</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GERAÇÃO 17'</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-g\">SOBRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-b\">INFOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-o\">FOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-m\">PRESENÇAS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#pricing-table2-6\">SE INSCREVER</a></li>"
         },
         {
-          "_inherit": "header1",
           "_tags": [
             "Theme"
           ],
-          "_name": "header4",
-          "_anchor": "header4-f",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/https---cdn-2000x1391.png",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/oaZeHPaEssA?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+          "_name": "image1",
+          "_anchor": "image1-y",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/aarte1440x600-1400x900.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
           },
-          "title": "GERAÇÃO 17'",
-          "text": "A reconstrução dos altares",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"#\" data-toolbar=\"-mbrBtnMove\">SABER MAIS</a> "
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
         },
         {
           "_styles": {
@@ -171,7 +164,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#fcfcfc",
             "showMeta": true
           },
           "title": "<br><br>A Reconstrução dos Altares",
@@ -186,7 +179,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fcfcfc"
           },
           "text": "<p>O GERAÇÃO é o nosso principal retiro, começou como um retiro para jovens e hoje tomou a dimensão de um congresso de jovens líderes da nossa Igreja. Um congresso para todos os jovens líderes da Igreja que querem mais de Deus, que querem se aprofundar e viver a radicalidade daquilo que Deus nos pede. A cada ano possui um tema distinto, a partir da oração e discernimento do nosso fundador, e este mesmo tema é o tema do ano para toda a comunidade. Em 2016 rodamos por Curitiba, São Paulo e Rio de Janeiro com o Geração.</p><p><br></p><p>Considerado a \"Virada de Ano\" para a Colo de Deus, o GERAÇÃO é o nosso maior evento, onde recebemos de Deus a moção que iremos viver durante o ano que se incia. É a grande reunião de toda a comunidade, vocacionados, amigos que desejam viver de forma intensa aquilo que Deus tem. Ne<span style=\"font-size: 1.07rem; line-height: 1.5;\">ste ano de 2017 o tema / moção do geração é a Reconstrução dos Altares e a passagem biblica que nos orienta esta em Isaías 58.</span></p>"
         },
@@ -199,7 +192,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fcfcfc"
           },
           "text": "<blockquote>\"11O Senhor te guiará constantemente, alimentar-te-á no árido deserto, renovará teu vigor. Serás como um jardim bem irrigado, como uma fonte de águas inesgotáveis. 12.Reerguerás as ruínas antigas, reedificarás sobre os alicerces seculares; chamar-te-ão o reparador de brechas, o restaurador das moradias em ruínas.\" &nbsp;Isaías 58.</blockquote>"
         },
@@ -212,9 +205,9 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fcfcfc"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black-outline btn-black\" href=\"index.html#testimonials1-m\" data-toolbar=\"-mbrBtnMove\">SE-INSCREVER</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"index.html#testimonials1-m\" data-toolbar=\"-mbrBtnMove\">SE-INSCREVER</a>"
         },
         {
           "_tags": [
@@ -255,7 +248,7 @@
             "overlayOpacity": "0.7",
             "overlayColor": "#ffffff"
           },
-          "text": "FOLLOW US",
+          "text": "SIGA-NOS",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://faceboook.com/colodedeus\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.twitter.com/colodedeus\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-twitter\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/+ComunidadeColodeDeusBr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/colodedeus\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/colodedeus\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://open.spotify.com/artist/4kcPkBwkBMfHCFqaGVPmu6\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-spotify\"></i></a>   "
         },
         {
@@ -266,12 +259,12 @@
           "_name": "features6",
           "_anchor": "features6-b",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#fcfcfc",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -280,12 +273,12 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "3",
+            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media1": {
             "iconFont": {
@@ -301,13 +294,13 @@
           },
           "title1": "DIA",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "O evento iniciará na&nbsp;sexta-feira, 21/07/2017, às 18:30 e será realizado até&nbsp;domingo, 23/07/2017.<br>",
           "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "clock",
+              "name": "hot-cup",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -315,9 +308,9 @@
               "color": "#000000"
             }
           },
-          "title2": "HORA",
+          "title2": "REFEIÇÕES",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.<br>",
+          "caption2": "O almoço do sábado e do domingo é incluso no valor da inscrição.<br>",
           "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -333,14 +326,14 @@
           },
           "title3": "LOCAL",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Como nas ultimas edições o evento acontecerá no Colégio&nbsp;SESI BOQUEIRÃO, que fica na rua&nbsp;Doutor Heleno da Silveira,&nbsp;Boqueirão,&nbsp;Curitiba, PR.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "heart",
-              "family": "et-line",
+              "name": "home",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "",
               "size": 0,
@@ -348,9 +341,9 @@
               "color": "#000000"
             }
           },
-          "title4": "COMIDA",
+          "title4": "POUSO",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "O Geração é aberto, ou seja, durante o dia temos as atividades e depois os participantes voltam para dormir em casa, ou no local de hospedagem.<br>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -429,18 +422,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14310545-678492192303118-6133761407755334373-o-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14310545-678492192303118-6133761407755334373-o-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/13765733-1071369606273619-1417585594489017987-o-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/13765733-1071369606273619-1417585594489017987-o-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14725548-694439844041686-2702566433555606370-n-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14725548-694439844041686-2702566433555606370-n-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -469,16 +452,6 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14671262-694439904041680-8921566863144003060-n-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14671262-694439904041680-8921566863144003060-n-2000x1333.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/14725657-694439927375011-64818288312677621-n-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/14725657-694439927375011-64818288312677621-n-2000x1333.jpg",
                 "caption": "Type caption here",
@@ -489,8 +462,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14324664-678490078969996-7123921696671278681-o-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14324664-678490078969996-7123921696671278681-o-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14310545-678492192303118-6133761407755334373-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14310545-678492192303118-6133761407755334373-o-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -499,8 +472,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/14725548-694439844041686-2702566433555606370-n-2000x1333-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/14725548-694439844041686-2702566433555606370-n-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14671262-694439904041680-8921566863144003060-n-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14671262-694439904041680-8921566863144003060-n-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/13765733-1071369606273619-1417585594489017987-o-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/13765733-1071369606273619-1417585594489017987-o-2000x1334.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/14324664-678490078969996-7123921696671278681-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/14324664-678490078969996-7123921696671278681-o-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -564,12 +557,44 @@
               },
               "authorName": "Jhollman C.",
               "authorBio": "User"
+            },
+            {
+              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
             }
           ],
           "_anchor": "testimonials1-m",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": "5",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
@@ -579,13 +604,9 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "count": 3,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
-          "title": "TESTEMUNHOS SOBRE O GERAÇÃO",
+          "title": "PRESENÇAS",
           "subtitle": "Como 3 dias de avivamento e formação podem mudar uma vida"
         },
         {
@@ -656,7 +677,7 @@
             "thirdType": "",
             "fourthType": ""
           },
-          "title": "GARANTA AGORA SEU INGRESSO!",
+          "title": "GARANTA JÁ SEU INGRESSO!",
           "subtitle": "Confira as datas de termino de cada lote e aproveite o desconto",
           "label1": "HOT!",
           "title1": "PRIMEIRO LOTE",
@@ -675,7 +696,7 @@
           "period2": ",00",
           "description2": "*INCLUSO ALMOÇO",
           "list2": "<p><span style=\"font-size: 1rem; line-height: 1.5;\">O primeiro lote vai até dia 21de junho, faça sua inscrição o quanto antes!</span></p>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/geracao17-curitiba-a-reconstrucao-dos-altares-tickets-33431733214#tickets\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO ME INSCREVER!</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/geracao17-curitiba-a-reconstrucao-dos-altares-tickets-33431733214#tickets\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO ME INSCREVER!</a>",
           "label3": "HOT!",
           "title3": "SEGUNDO LOTE<br><span style=\"font-weight: normal;\"><i>até dia 14/07</i></span>",
           "subtitle3": "",
@@ -684,7 +705,7 @@
           "period3": ",00",
           "description3": "*INCLUSO ALMOÇO",
           "list3": "<p><span style=\"font-size: 1rem; line-height: 1.5;\">Não deixe o preço subir! inscreva-se o quanto antes e aproveite o desconto!</span><br></p>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/geracao17-curitiba-a-reconstrucao-dos-altares-tickets-33431733214#tickets\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOU DEIXAR PRO 2° LOTE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/geracao17-curitiba-a-reconstrucao-dos-altares-tickets-33431733214#tickets\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOU DEIXAR PRO 2° LOTE</a>",
           "label4": "HOT!",
           "title4": "TERCEIRO LOTE<br><span style=\"font-weight: normal;\"><i>até dia 21/07</i></span>",
           "subtitle4": "",
@@ -693,122 +714,34 @@
           "period4": ",00",
           "description4": "*INCLUSO ALMOÇO",
           "list4": "<p><span style=\"font-size: 1rem; line-height: 1.5;\">Não deixe pra ultima hora, pode ser que não haja mais ingresso no local!</span><br></p>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/geracao17-curitiba-a-reconstrucao-dos-altares-tickets-33431733214#tickets\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO COMPRAR MAIS CARO!</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/geracao17-curitiba-a-reconstrucao-dos-altares-tickets-33431733214#tickets\" class=\"btn btn-primary-outline btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO COMPRAR MAIS CARO!</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_styles": {
-            "STRONG": {
-              "color": "#efefef"
-            },
-            "H4": {
-              "color": "#efefef",
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left",
-              "color": "#ffffff"
-            },
-            "SPAN": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts3-8",
+          "_name": "contacts2",
+          "_anchor": "contacts2-z",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
             "bgColor": "#000000",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logotipo-comnidade-colo-de-deus-hugo-e1485004579846-265x265.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
+            "overlayOpacity": "0.5",
+            "overlayColor": "#000000",
+            "googleMap": {
+              "address": "Doutor Heleno da Silveira\nBoqueirão,\nCuritiba, PR 81750340",
+              "placeId": "ChIJ70iTC_j63JQRLft8a6v0apg",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+55 (41) 3297-1042",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "<br>Av. Mal. Floriano Peixoto, 10781 - Boqueirão, Curitiba - PR, 80050-540<br>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "<a href=\"mailto:eventos@colodedeus.com.br\" class=\"text-danger\">eventos@colodedeus.com.br</a>",
-          "title1": "Acesse tbm:",
-          "text5": "<li><a class=\"text-white\" href=\"http://colodedeus.com.br\" target=\"_blank\">Colo de Deus</a></li><li><a class=\"text-white\" href=\"http://colodedeus.com.br/agenda\">Agenda</a></li><li><a href=\"http://youtube.com/colodedeus\" target=\"_blank\" class=\"text-danger\">Web Tv / You Tube</a><a class=\"text-white\" href=\"#\"></a></li><li><a class=\"text-white\" href=\"blog.colodedeus.com.br\" target=\"_blank\">Blog</a></li><li><a class=\"text-white\" href=\"https://www.paypal.com/br/cgi-bin/webscr?cmd=_flow&amp;SESSION=cw_1qI9A2JxkdhUGG5jvY0bW4FRtqPCsaqNijKLJuQGlMbgh1EAELAUpLVW&amp;dispatch=5885d80a13c0db1f8e263663d3faee8d83a0bf7db316a7beb1b14b43acd04037&amp;rapidsState=Donation__DonationFlow___StateDonationStart&amp;rapidsStateSignature=e4f15b0d7557714c9f15a8074775114b8c8ac6ff\" target=\"_blank\">Ajude-nos</a></li>",
-          "text6": "<font color=\"#efefef\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Sobre nós:</b></span></font><br><font color=\"#efefef\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font>Somos uma comunidade católica, uma associação de fiéis, formadas por membros de vida e aliança, que acreditamos e desejamos realizar o mesmo objetivo, anunciar o nome de Jesus Cristo pelas nações. Somos jovens e adultos que decidiram se unir em um único lugar com os mesmos propósitos.<br>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "contato@colodedeus.com.br",
-            "alerts": {
-              "success": "Obrigado, logo entraremos em contato! ;)"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "Nome*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "Telefone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Mensage"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-white\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>"
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
         },
         {
           "_tags": [
@@ -822,13 +755,13 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 <a href=\"http://colodedeus.com.br\" target=\"_blank\">Comunidade Católica Colo de Deus</a>."
+          "text": "Copyright (c) 2017 <a href=\"http://colodedeus.com.br\" target=\"_blank\" class=\"text-danger\">Comunidade Católica Colo de Deus</a>."
         }
       ]
     }
