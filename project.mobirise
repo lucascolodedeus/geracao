@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 36,
+    "uniqCompNum": 37,
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/150-logotipo-colo-128x128.png",
     "noImageResize": "",
@@ -66,13 +66,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -94,7 +94,7 @@
           "_name": "menu",
           "_anchor": "menu-v",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
@@ -122,8 +122,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GERAÇÃO 17'</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-g\">SOBRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-b\">INFOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-o\">FOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-m\">PRESENÇAS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"index.html#pricing-table2-6\">SE INSCREVER</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GERAÇÃO 17'</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-g\">SOBRE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-b\">INFOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-o\">FOTOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials1-m\">PRESENÇAS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#pricing-table2-6\">SE INSCREVER</a></li>"
         },
         {
           "_tags": [
@@ -326,7 +326,7 @@
           },
           "title3": "LOCAL",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Como nas ultimas edições o evento acontecerá no Colégio&nbsp;SESI BOQUEIRÃO, que fica na rua&nbsp;Doutor Heleno da Silveira,&nbsp;Boqueirão,&nbsp;Curitiba, PR.<br>",
+          "caption3": "Como nas ultimas edições o evento acontecerá no Colégio Sesi boqueirão, que fica na rua&nbsp;Doutor Heleno da Silveira,&nbsp;Boqueirão,&nbsp;Curitiba, PR.<br>",
           "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -372,7 +372,31 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#8f8f8f"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-10",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Pessoas que vem de outras cidades podem entrar em contato pelo email <a href=\"mailto:eventos@colodedeus.com.br\" target=\"_blank\" class=\"text-black\">eventos@colodedeus.com.br</a> caso tenham alguma dúvida em relação a algum hotel e pousada.</p>",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#7c7c7c"
+            }
+          }
         },
         {
           "_styles": {
