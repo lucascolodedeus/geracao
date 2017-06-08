@@ -207,7 +207,7 @@
             "paddingBottom": 1,
             "bgColor": "#fcfcfc"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"index.html#testimonials1-m\" data-toolbar=\"-mbrBtnMove\">SE-INSCREVER</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary-outline btn-primary\" href=\"index.html#pricing-table2-6\" data-toolbar=\"-mbrBtnMove\">SE-INSCREVER</a>"
         },
         {
           "_tags": [
@@ -287,9 +287,10 @@
               "name": "calendar",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title1": "DIA",
@@ -303,9 +304,10 @@
               "name": "hot-cup",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title2": "REFEIÇÕES",
@@ -319,9 +321,10 @@
               "name": "map-pin",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title3": "LOCAL",
@@ -814,7 +817,7 @@
             }
           },
           "text1": "<b>Comunidade Católica</b><br><b>Colo de Deus<br></b><br><br>\n<strong>Contato</strong><br>\nEmail: <a href=\"mailto:eventos@colodedeus.com.br\" class=\"text-danger\">eventos@colodedeus.com.br</a><br>Telefone: +55 (41) 3297-1042<br>\nEndereço:&nbsp;<a href=\"https://www.google.com.br/maps/dir/''/colo+de+deus/data=!4m5!4m4!1m0!1m2!1m1!1s0x94dce1a62ec2ce27:0x3434648d15797047?sa=X&amp;ved=0ahUKEwjx5uPbsa7UAhXGgZAKHYZpDIoQ9RcI-QEwGg\" target=\"_blank\" class=\"text-danger\">Av. Mal. Floriano Peixoto, 10781 - Boqueirão, Curitiba - PR, 80050-540</a><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://colodedeus.com.br\" target=\"_blank\" class=\"text-danger\">Colo de Deus</a></li><li><a href=\"http://blog.colodedeus.com.br\" target=\"_blank\" class=\"text-danger\">Blog</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\" class=\"text-danger\">Casa De Maria</a></li><li><a href=\"https://www.youtube.com/user/comunidadecolodedeus\" target=\"_blank\" class=\"text-danger\">Web TV</a></li><li><a href=\"http://colodedeus.com.br/evento/\" target=\"_blank\" class=\"text-danger\">Eventos</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://colodedeus.com.br\" target=\"_blank\" class=\"text-danger\">Colo de Deus</a></li><li><a href=\"http://blog.colodedeus.com.br\" target=\"_blank\" class=\"text-danger\">Blog</a></li><li><a href=\"http://casademaria.colodedeus.com.br/\" class=\"text-danger\">Casa De Maria</a></li><li><a href=\"https://www.youtube.com/user/comunidadecolodedeus\" target=\"_blank\" class=\"text-danger\">Web TV</a></li><li><a href=\"http://colodedeus.com.br/evento/\" target=\"_blank\" class=\"text-danger\">Eventos</a></li></ul>",
           "_styles": {
             "P": {
               "color": "#efefef"
