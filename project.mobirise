@@ -109,7 +109,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/branco-logo-colo-154x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logotipo-comnidade-colo-de-deus-hugo-e1485004579846-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -517,81 +517,119 @@
           "_name": "testimonials1",
           "testimonial": [
             {
-              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "text": "",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/hugoaaa-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "Abanoub S.",
-              "authorBio": "User"
+              "authorName": "Hugo Santos",
+              "authorBio": "Fundador da Comunidade <br>Católica Colo de Deus"
             },
             {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag &amp; drop with no time design bootstrap builder in present web design world.”</p>",
+              "text": "",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/jean-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "Suffian A.",
-              "authorBio": "User"
+              "authorName": "Jean Berthier",
+              "authorBio": "Fundador da Comunidade <br>Católica Gratidão"
             },
             {
-              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "text": "",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/18671565-1365905640153346-5373138042556350519-o-159x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "Jhollman C.",
-              "authorBio": "User"
+              "authorName": "Betinho",
+              "authorBio": "Fundador da Comunidade<br>Católica Marcca<br>"
             },
             {
-              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "text": "",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/18268678-417032801987071-1345463480057053458-n-159x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "John Smith",
-              "authorBio": "Developer"
+              "authorName": "Flavio Vitor",
+              "authorBio": "Membro Consagrado&nbsp;de vida<br>&nbsp;da Comunidade Colo de Deus<br>"
             },
             {
-              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
+              "text": "",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/16729158-293546734393200-4572561437002897664-n-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
                 }
               },
-              "authorName": "John Smith",
-              "authorBio": "Developer"
+              "authorName": "Fernando Nascimento",
+              "authorBio": "coordenador de projetos de evangelização na Associação do Senhor Jesus e Rede Século 21"
+            },
+            {
+              "text": "",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/mike-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Mike Shea",
+              "authorBio": "Casa de Davi"
             }
           ],
           "_anchor": "testimonials1-m",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "count": "5",
+            "count": "6",
             "showImages": true,
             "showName": true,
             "showBio": true,
@@ -607,7 +645,18 @@
             "showSubtitle": true
           },
           "title": "PRESENÇAS",
-          "subtitle": "Como 3 dias de avivamento e formação podem mudar uma vida"
+          "subtitle": "Como 3 dias de avivamento e formação podem mudar uma vida",
+          "_styles": {
+            ".card-block P": {
+              "color": "#000000"
+            },
+            ".card-footer > div": {
+              "color": "#000000"
+            },
+            ".card-block": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_inherit": "pricing-table1",
@@ -740,8 +789,19 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999<br><br><br>\n<strong>Contacts</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>"
+          "text1": "<b>Comunidade Católica</b><br><b>Colo de Deus<br></b><br><br>\n<strong>Contato</strong><br>\nEmail: <a href=\"mailto:eventos@colodedeus.com.br\" class=\"text-danger\">eventos@colodedeus.com.br</a><br>Telefone: +55 (41) 3297-1042<br>\nEndereço:&nbsp;<a href=\"https://www.google.com.br/maps/dir/''/colo+de+deus/data=!4m5!4m4!1m0!1m2!1m1!1s0x94dce1a62ec2ce27:0x3434648d15797047?sa=X&amp;ved=0ahUKEwjx5uPbsa7UAhXGgZAKHYZpDIoQ9RcI-QEwGg\" target=\"_blank\" class=\"text-danger\">Av. Mal. Floriano Peixoto, 10781 - Boqueirão, Curitiba - PR, 80050-540</a><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><li><a href=\"http://colodedeus.com.br\" target=\"_blank\" class=\"text-danger\">Colo de Deus</a></li><li><a href=\"http://blog.colodedeus.com.br\" target=\"_blank\" class=\"text-danger\">Blog</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\" class=\"text-danger\">Casa De Maria</a></li><li><a href=\"https://www.youtube.com/user/comunidadecolodedeus\" target=\"_blank\" class=\"text-danger\">Web TV</a></li><li><a href=\"http://colodedeus.com.br/evento/\" target=\"_blank\" class=\"text-danger\">Eventos</a></li></ul>",
+          "_styles": {
+            "P": {
+              "color": "#efefef"
+            },
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            "B": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [

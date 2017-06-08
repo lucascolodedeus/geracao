@@ -485,6 +485,15 @@ h6,
 #msg-box8-o p {
   color: #fff;
 }
+#testimonials1-m .card-block P {
+  color: #000000;
+}
+#testimonials1-m .card-footer > div {
+  color: #000000;
+}
+#testimonials1-m .card-block {
+  color: #000000;
+}
 #pricing-table2-6 .mbr-plan-header,
 #pricing-table2-6 .mbr-plan-body {
   background-color: #f4f4f4;
@@ -525,4 +534,13 @@ h6,
 }
 #pricing-table2-6 .mbr-section__container .mbr-section-title {
   color: #ffffff;
+}
+#contacts2-z P {
+  color: #efefef;
+}
+#contacts2-z STRONG {
+  color: #ffffff;
+}
+#contacts2-z B {
+  text-align: left;
 }
